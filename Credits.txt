@@ -1,3 +1,5 @@
 # Credits file used for crediting sources for non-public information used in code.
 
 Many IP lists where found using AS# searches at bgp.he.net Hurricane Electric BGP Toolkit.
+
+Cisco8_22: https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html
