@@ -1,3 +1,5 @@
 js.mchncdn.com
 i.sng.link
 widgets.zemanta.com
+aax-us-east.amazon-adsystem.com
+s.amazon-adsystem.com
